@@ -16,4 +16,5 @@
 ---
 
 GitHub repository: https://github.com/cottonable/perplexity-vscode
+
 Marketplace link: https://marketplace.visualstudio.com/items?itemName=cottonable.perplexity
