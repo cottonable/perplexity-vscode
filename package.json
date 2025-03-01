@@ -1,0 +1,21 @@
+{
+  "name": "perplexity",
+  "displayName": "perplexity",
+  "description": "a theme for vscode using perplexity ai ui colors ",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Perplexity Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/perplexity-color-theme.json"
+      }
+    ]
+  }
+}
