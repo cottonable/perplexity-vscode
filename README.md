@@ -1,16 +1,17 @@
-# perplexity README
+# Perplexity Theme
 
-## Working with Markdown
+## Screenshots
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![showcase screenshot 1](./screenshots/ss1.png)
+![showcase screenshot 2](./screenshots/ss2.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## 🚀 Installation
+- Open the Extensions sidebar in VSCode
+- Search for Perplexity Theme
+- Click Install
+- Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
+- Select Preferences: Color Theme and choose Perplexity.
 
-## For more information
+---
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+GitHub repository: https://github.com/cottonable/perplexity-vscode

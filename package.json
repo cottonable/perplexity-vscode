@@ -1,8 +1,14 @@
 {
   "name": "perplexity",
-  "displayName": "perplexity",
-  "description": "a theme for vscode using perplexity ai ui colors ",
+  "publisher": "cottonable",
+  "icon": "icon.png",
+  "displayName": "Perplexity Theme",
+  "description": "A theme for VSCode using Perplexity AI UI colors",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cottonable/perplexity-vscode"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
