@@ -4,6 +4,7 @@
 
 ![showcase screenshot 1](./screenshots/ss1.png)
 ![showcase screenshot 2](./screenshots/ss2.png)
+![showcase screenshot 3](./screenshots/ss3.png)
 
 ## 🚀 Installation
 - Open the Extensions sidebar in VSCode
